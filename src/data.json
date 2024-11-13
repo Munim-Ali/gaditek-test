@@ -1,0 +1,74 @@
+{
+  "credentials": {
+    "username": "gaditekadmin",
+    "password": "gaditekadmin"
+  },
+  "metrics": {
+    "exposure": [
+      {
+        "metric": "Brand Clicks",
+        "total": 65000,
+        "pnl": 4.0
+      },
+      {
+        "metric": "Brand Engagements",
+        "total": 62000,
+        "pnl": 4.0
+      },
+      {
+        "metric": "Unique Users",
+        "total": 14000,
+        "pnl": -4.0
+      },
+      {
+        "metric": "Repeat Rate",
+        "total": 94.2,
+        "pnl": 4.0
+      }
+    ],
+    "sales": [
+      {
+        "metric": "Total Traffic",
+        "total": 64014,
+        "pnl": 4.0
+      },
+      {
+        "metric": "Orders Placed",
+        "total": 10577,
+        "pnl": 4.0
+      },
+      {
+        "metric": "Total Revenue",
+        "total": 153000,
+        "pnl": 4.0
+      },
+      {
+        "metric": "Average Order Value",
+        "total": 1209,
+        "pnl": 4.0
+      }
+    ],
+    "orders": [
+      {
+        "metric": "Total Complete Orders",
+        "total": 8926,
+        "pnl": 4.0
+      },
+      {
+        "metric": "Total Pending Orders",
+        "total": 1601,
+        "pnl": 4.0
+      },
+      {
+        "metric": "Total Cancelled Orders",
+        "total": 30,
+        "pnl": 4.0
+      },
+      {
+        "metric": "Cancellation Rate",
+        "total": 0.28,
+        "pnl": 4.0
+      }
+    ]
+  }
+}
